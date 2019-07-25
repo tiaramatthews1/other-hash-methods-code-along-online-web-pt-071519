@@ -10,6 +10,6 @@ require 'pry'
 
 def get_the_min(groceries)
   groceries.min
-  alphabetical_order = {vegetable: "carrots", "broccoli"}
+  alphabetical_order = {vegetable: "carrots", "broccoli", "cucumbers"}
   alphabetical_order.min
 end
